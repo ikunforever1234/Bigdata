@@ -1,0 +1,31 @@
+# 编译产物
+build/
+dist/
+*.o
+*.exe
+*.zip
+*.tar.gz
+*.spec
+
+homework/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# 大模型/数据
+data/
+checkpoints/
+models/
+*.pth
+*.pt
+*.bin
+*.ckpt
+
+# 日志
+*.log
+
+# IDE
+.vscode/
+.idea/

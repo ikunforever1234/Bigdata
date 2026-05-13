@@ -1,0 +1,1640 @@
+[2026-05-04 21:10:14] main.py
+Maximum: 66.41 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:15] main.py
+Maximum: 66.98 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:16] main.py
+Maximum: 66.88 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:16] main.py
+Maximum: 67.05 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:17] main.py
+Maximum: 66.95 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:18] main.py
+Maximum: 66.86 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:19] main.py
+Maximum: 67.01 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:20] main.py
+Maximum: 67.17 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:20] main.py
+Maximum: 66.92 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:21] main.py
+Maximum: 66.89 MB
+Time: 0.81 s
+
+[2026-05-04 21:10:48] main1.py
+Maximum: 3271.68 MB
+Time: 2.72 s
+
+[2026-05-04 21:10:51] main1.py
+Maximum: 3192.01 MB
+Time: 2.72 s
+
+[2026-05-04 21:10:53] main1.py
+Maximum: 3382.28 MB
+Time: 2.72 s
+
+[2026-05-04 21:10:56] main1.py
+Maximum: 3336.01 MB
+Time: 2.63 s
+
+[2026-05-04 21:10:59] main1.py
+Maximum: 3420.26 MB
+Time: 2.72 s
+
+[2026-05-04 21:11:01] main1.py
+Maximum: 3108.43 MB
+Time: 2.62 s
+
+[2026-05-04 21:11:04] main1.py
+Maximum: 3080.62 MB
+Time: 2.62 s
+
+[2026-05-04 21:11:07] main1.py
+Maximum: 3285.91 MB
+Time: 2.62 s
+
+[2026-05-04 21:11:09] main1.py
+Maximum: 3456.75 MB
+Time: 2.52 s
+
+[2026-05-04 21:11:12] main1.py
+Maximum: 3393.79 MB
+Time: 2.52 s
+
+[2026-05-04 21:12:57] main1.py
+Maximum: 26.06 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:58] main1.py
+Maximum: 26.88 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:58] main1.py
+Maximum: 28.84 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:58] main1.py
+Maximum: 27.92 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:58] main1.py
+Maximum: 28.49 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:59] main1.py
+Maximum: 29.15 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:59] main1.py
+Maximum: 29.00 MB
+Time: 0.31 s
+
+[2026-05-04 21:12:59] main1.py
+Maximum: 26.10 MB
+Time: 0.31 s
+
+[2026-05-04 21:13:00] main1.py
+Maximum: 28.08 MB
+Time: 0.31 s
+
+[2026-05-04 21:13:00] main1.py
+Maximum: 26.61 MB
+Time: 0.31 s
+
+[2026-05-04 21:13:23] main1.py
+Maximum: 4256.64 MB
+Time: 10.67 s
+
+[2026-05-04 21:13:34] main1.py
+Maximum: 4260.53 MB
+Time: 11.19 s
+
+[2026-05-04 21:13:45] main1.py
+Maximum: 4239.51 MB
+Time: 10.88 s
+
+[2026-05-04 21:13:56] main1.py
+Maximum: 4226.68 MB
+Time: 10.89 s
+
+[2026-05-04 21:14:08] main1.py
+Maximum: 4221.65 MB
+Time: 12.34 s
+
+[2026-05-04 21:14:21] main1.py
+Maximum: 4259.54 MB
+Time: 13.13 s
+
+[2026-05-04 21:14:34] main1.py
+Maximum: 4300.65 MB
+Time: 12.19 s
+
+[2026-05-04 21:14:46] main1.py
+Maximum: 4291.22 MB
+Time: 12.41 s
+
+[2026-05-04 21:14:58] main1.py
+Maximum: 4262.25 MB
+Time: 12.08 s
+
+[2026-05-04 21:15:11] main1.py
+Maximum: 4269.73 MB
+Time: 12.43 s
+
+[2026-05-04 21:16:18] main.py
+Maximum: 66.32 MB
+Time: 0.92 s
+
+[2026-05-04 21:16:19] main.py
+Maximum: 66.99 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:20] main.py
+Maximum: 66.82 MB
+Time: 0.91 s
+
+[2026-05-04 21:16:21] main.py
+Maximum: 66.85 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:22] main.py
+Maximum: 66.82 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:23] main.py
+Maximum: 66.74 MB
+Time: 0.91 s
+
+[2026-05-04 21:16:23] main.py
+Maximum: 66.38 MB
+Time: 0.91 s
+
+[2026-05-04 21:16:24] main.py
+Maximum: 67.05 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:25] main.py
+Maximum: 66.98 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:26] main.py
+Maximum: 67.05 MB
+Time: 0.81 s
+
+[2026-05-04 21:16:56] main.py
+Maximum: 66.96 MB
+Time: 1.11 s
+
+[2026-05-04 21:16:57] main.py
+Maximum: 66.88 MB
+Time: 1.11 s
+
+[2026-05-04 21:16:58] main.py
+Maximum: 67.03 MB
+Time: 1.11 s
+
+[2026-05-04 21:16:59] main.py
+Maximum: 66.79 MB
+Time: 1.11 s
+
+[2026-05-04 21:17:01] main.py
+Maximum: 66.72 MB
+Time: 1.21 s
+
+[2026-05-04 21:17:02] main.py
+Maximum: 67.14 MB
+Time: 1.11 s
+
+[2026-05-04 21:17:03] main.py
+Maximum: 66.86 MB
+Time: 1.11 s
+
+[2026-05-04 21:17:04] main.py
+Maximum: 66.93 MB
+Time: 1.11 s
+
+[2026-05-04 21:17:05] main.py
+Maximum: 66.87 MB
+Time: 1.11 s
+
+[2026-05-04 21:17:06] main.py
+Maximum: 66.91 MB
+Time: 1.11 s
+
+[2026-05-11 13:36:03] optimized_pagerank.py
+Maximum: 52.62 MB
+Time: 0.92 s
+
+[2026-05-11 13:36:03] optimized_pagerank.py
+Maximum: 52.48 MB
+Time: 0.91 s
+
+[2026-05-11 13:36:04] optimized_pagerank.py
+Maximum: 52.43 MB
+Time: 0.91 s
+
+[2026-05-11 13:36:05] optimized_pagerank.py
+Maximum: 52.80 MB
+Time: 0.92 s
+
+[2026-05-11 13:36:06] optimized_pagerank.py
+Maximum: 52.30 MB
+Time: 0.92 s
+
+[2026-05-11 13:36:07] optimized_pagerank.py
+Maximum: 52.40 MB
+Time: 0.92 s
+
+[2026-05-11 13:36:08] optimized_pagerank.py
+Maximum: 52.17 MB
+Time: 0.91 s
+
+[2026-05-11 13:36:09] optimized_pagerank.py
+Maximum: 54.52 MB
+Time: 0.91 s
+
+[2026-05-11 13:36:10] optimized_pagerank.py
+Maximum: 52.33 MB
+Time: 0.91 s
+
+[2026-05-11 13:36:11] optimized_pagerank.py
+Maximum: 51.61 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:33] optimized_pagerank.py
+Maximum: 50.76 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:33] optimized_pagerank.py
+Maximum: 51.22 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:34] optimized_pagerank.py
+Maximum: 50.54 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:35] optimized_pagerank.py
+Maximum: 50.93 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:36] optimized_pagerank.py
+Maximum: 50.61 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:37] optimized_pagerank.py
+Maximum: 49.01 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:38] optimized_pagerank.py
+Maximum: 50.70 MB
+Time: 0.92 s
+
+[2026-05-11 13:42:39] optimized_pagerank.py
+Maximum: 51.27 MB
+Time: 0.92 s
+
+[2026-05-11 13:42:40] optimized_pagerank.py
+Maximum: 50.92 MB
+Time: 0.91 s
+
+[2026-05-11 13:42:41] optimized_pagerank.py
+Maximum: 50.65 MB
+Time: 0.91 s
+
+[2026-05-11 14:15:48] optimized_pagerank.py
+Maximum: 52.96 MB
+Time: 1.94 s
+
+[2026-05-11 14:15:50] optimized_pagerank.py
+Maximum: 50.85 MB
+Time: 2.04 s
+
+[2026-05-11 14:15:52] optimized_pagerank.py
+Maximum: 51.18 MB
+Time: 2.03 s
+
+[2026-05-11 14:15:54] optimized_pagerank.py
+Maximum: 52.02 MB
+Time: 2.23 s
+
+[2026-05-11 14:15:56] optimized_pagerank.py
+Maximum: 54.22 MB
+Time: 2.04 s
+
+[2026-05-11 14:15:58] optimized_pagerank.py
+Maximum: 53.07 MB
+Time: 2.02 s
+
+[2026-05-11 14:16:00] optimized_pagerank.py
+Maximum: 52.98 MB
+Time: 2.03 s
+
+[2026-05-11 14:16:03] optimized_pagerank.py
+Maximum: 54.33 MB
+Time: 2.19 s
+
+[2026-05-11 14:16:05] optimized_pagerank.py
+Maximum: 51.09 MB
+Time: 2.13 s
+
+[2026-05-11 14:16:07] optimized_pagerank.py
+Maximum: 50.77 MB
+Time: 2.12 s
+
+[2026-05-11 14:30:24] optimized_pagerank.py
+Maximum: 49.28 MB
+Time: 1.83 s
+
+[2026-05-11 14:30:26] optimized_pagerank.py
+Maximum: 48.20 MB
+Time: 2.17 s
+
+[2026-05-11 14:30:28] optimized_pagerank.py
+Maximum: 49.34 MB
+Time: 2.17 s
+
+[2026-05-11 14:30:30] optimized_pagerank.py
+Maximum: 51.46 MB
+Time: 2.13 s
+
+[2026-05-11 14:30:32] optimized_pagerank.py
+Maximum: 49.46 MB
+Time: 1.94 s
+
+[2026-05-11 14:30:34] optimized_pagerank.py
+Maximum: 48.41 MB
+Time: 2.06 s
+
+[2026-05-11 14:30:36] optimized_pagerank.py
+Maximum: 49.79 MB
+Time: 1.93 s
+
+[2026-05-11 14:30:38] optimized_pagerank.py
+Maximum: 51.43 MB
+Time: 1.84 s
+
+[2026-05-11 14:30:40] optimized_pagerank.py
+Maximum: 50.32 MB
+Time: 2.04 s
+
+[2026-05-11 14:30:42] optimized_pagerank.py
+Maximum: 47.93 MB
+Time: 2.05 s
+
+[2026-05-11 16:36:20] optimized_pagerank.py
+Maximum: 48.16 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:20] optimized_pagerank.py
+Maximum: 47.73 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:21] optimized_pagerank.py
+Maximum: 48.20 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:22] optimized_pagerank.py
+Maximum: 47.76 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:23] optimized_pagerank.py
+Maximum: 48.42 MB
+Time: 0.91 s
+
+[2026-05-11 16:36:24] optimized_pagerank.py
+Maximum: 45.33 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:25] optimized_pagerank.py
+Maximum: 47.62 MB
+Time: 0.91 s
+
+[2026-05-11 16:36:26] optimized_pagerank.py
+Maximum: 48.19 MB
+Time: 0.91 s
+
+[2026-05-11 16:36:26] optimized_pagerank.py
+Maximum: 46.13 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:27] optimized_pagerank.py
+Maximum: 48.48 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:36] optimized_pagerank.py
+Maximum: 47.98 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:37] optimized_pagerank.py
+Maximum: 48.40 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:38] optimized_pagerank.py
+Maximum: 48.31 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:39] optimized_pagerank.py
+Maximum: 47.95 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:39] optimized_pagerank.py
+Maximum: 47.92 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:40] optimized_pagerank.py
+Maximum: 44.98 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:41] optimized_pagerank.py
+Maximum: 47.74 MB
+Time: 0.81 s
+
+[2026-05-11 16:36:42] optimized_pagerank.py
+Maximum: 46.98 MB
+Time: 0.92 s
+
+[2026-05-11 16:36:43] optimized_pagerank.py
+Maximum: 48.27 MB
+Time: 0.82 s
+
+[2026-05-11 16:36:44] optimized_pagerank.py
+Maximum: 45.96 MB
+Time: 0.81 s
+
+[2026-05-11 19:18:27] optimized_pagerank.py
+Maximum: 53.88 MB
+Time: 8.96 s
+
+[2026-05-11 19:18:31] optimized_pagerank.py
+Maximum: 54.06 MB
+Time: 3.15 s
+
+[2026-05-11 19:18:34] optimized_pagerank.py
+Maximum: 54.07 MB
+Time: 3.35 s
+
+[2026-05-11 19:18:37] optimized_pagerank.py
+Maximum: 54.11 MB
+Time: 3.13 s
+
+[2026-05-11 19:18:40] optimized_pagerank.py
+Maximum: 54.13 MB
+Time: 3.25 s
+
+[2026-05-11 19:18:44] optimized_pagerank.py
+Maximum: 54.27 MB
+Time: 3.33 s
+
+[2026-05-11 19:18:47] optimized_pagerank.py
+Maximum: 53.38 MB
+Time: 3.44 s
+
+[2026-05-11 19:18:51] optimized_pagerank.py
+Maximum: 53.90 MB
+Time: 3.55 s
+
+[2026-05-11 19:18:54] optimized_pagerank.py
+Maximum: 54.19 MB
+Time: 3.14 s
+
+[2026-05-11 19:18:57] optimized_pagerank.py
+Maximum: 54.19 MB
+Time: 3.37 s
+
+[2026-05-11 19:20:00] optimized_pagerank.py
+Maximum: 53.68 MB
+Time: 2.24 s
+
+[2026-05-11 19:20:02] optimized_pagerank.py
+Maximum: 52.36 MB
+Time: 2.23 s
+
+[2026-05-11 19:20:04] optimized_pagerank.py
+Maximum: 54.89 MB
+Time: 2.23 s
+
+[2026-05-11 19:20:07] optimized_pagerank.py
+Maximum: 52.46 MB
+Time: 2.28 s
+
+[2026-05-11 19:20:09] optimized_pagerank.py
+Maximum: 51.87 MB
+Time: 2.33 s
+
+[2026-05-11 19:20:11] optimized_pagerank.py
+Maximum: 54.69 MB
+Time: 2.23 s
+
+[2026-05-11 19:20:14] optimized_pagerank.py
+Maximum: 52.74 MB
+Time: 2.45 s
+
+[2026-05-11 19:20:16] optimized_pagerank.py
+Maximum: 54.95 MB
+Time: 2.34 s
+
+[2026-05-11 19:20:19] optimized_pagerank.py
+Maximum: 54.59 MB
+Time: 2.73 s
+
+[2026-05-11 19:20:21] optimized_pagerank.py
+Maximum: 55.03 MB
+Time: 2.34 s
+
+[2026-05-11 19:20:37] optimized_pagerank.py
+Maximum: 48.48 MB
+Time: 2.16 s
+
+[2026-05-11 19:20:39] optimized_pagerank.py
+Maximum: 48.37 MB
+Time: 1.83 s
+
+[2026-05-11 19:20:40] optimized_pagerank.py
+Maximum: 48.29 MB
+Time: 1.93 s
+
+[2026-05-11 19:20:42] optimized_pagerank.py
+Maximum: 48.68 MB
+Time: 1.94 s
+
+[2026-05-11 19:20:44] optimized_pagerank.py
+Maximum: 49.07 MB
+Time: 2.01 s
+
+[2026-05-11 19:20:46] optimized_pagerank.py
+Maximum: 48.49 MB
+Time: 1.94 s
+
+[2026-05-11 19:20:48] optimized_pagerank.py
+Maximum: 48.63 MB
+Time: 1.83 s
+
+[2026-05-11 19:20:50] optimized_pagerank.py
+Maximum: 48.79 MB
+Time: 1.93 s
+
+[2026-05-11 19:20:52] optimized_pagerank.py
+Maximum: 48.86 MB
+Time: 1.93 s
+
+[2026-05-11 19:20:54] optimized_pagerank.py
+Maximum: 48.70 MB
+Time: 2.03 s
+
+[2026-05-11 19:21:08] optimized_pagerank.py
+Maximum: 48.42 MB
+Time: 2.24 s
+
+[2026-05-11 19:21:10] optimized_pagerank.py
+Maximum: 48.99 MB
+Time: 2.24 s
+
+[2026-05-11 19:21:12] optimized_pagerank.py
+Maximum: 48.52 MB
+Time: 2.13 s
+
+[2026-05-11 19:21:14] optimized_pagerank.py
+Maximum: 48.78 MB
+Time: 1.92 s
+
+[2026-05-11 19:21:16] optimized_pagerank.py
+Maximum: 48.53 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:18] optimized_pagerank.py
+Maximum: 48.62 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:20] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 2.03 s
+
+[2026-05-11 19:21:22] optimized_pagerank.py
+Maximum: 48.87 MB
+Time: 2.02 s
+
+[2026-05-11 19:21:24] optimized_pagerank.py
+Maximum: 48.57 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:26] optimized_pagerank.py
+Maximum: 48.35 MB
+Time: 2.13 s
+
+[2026-05-11 19:21:38] optimized_pagerank.py
+Maximum: 48.52 MB
+Time: 2.04 s
+
+[2026-05-11 19:21:40] optimized_pagerank.py
+Maximum: 48.54 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:42] optimized_pagerank.py
+Maximum: 48.48 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:44] optimized_pagerank.py
+Maximum: 48.62 MB
+Time: 1.83 s
+
+[2026-05-11 19:21:46] optimized_pagerank.py
+Maximum: 48.72 MB
+Time: 1.84 s
+
+[2026-05-11 19:21:48] optimized_pagerank.py
+Maximum: 48.49 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:50] optimized_pagerank.py
+Maximum: 48.82 MB
+Time: 1.99 s
+
+[2026-05-11 19:21:52] optimized_pagerank.py
+Maximum: 48.53 MB
+Time: 1.94 s
+
+[2026-05-11 19:21:54] optimized_pagerank.py
+Maximum: 48.65 MB
+Time: 1.93 s
+
+[2026-05-11 19:21:56] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 2.03 s
+
+[2026-05-11 20:17:43] optimized_pagerank.py
+Maximum: 48.05 MB
+Time: 1.11 s
+
+[2026-05-11 20:17:44] optimized_pagerank.py
+Maximum: 48.50 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:45] optimized_pagerank.py
+Maximum: 47.77 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:46] optimized_pagerank.py
+Maximum: 48.27 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:47] optimized_pagerank.py
+Maximum: 48.31 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:48] optimized_pagerank.py
+Maximum: 48.46 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:49] optimized_pagerank.py
+Maximum: 48.69 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:50] optimized_pagerank.py
+Maximum: 47.80 MB
+Time: 0.91 s
+
+[2026-05-11 20:17:51] optimized_pagerank.py
+Maximum: 47.87 MB
+Time: 0.81 s
+
+[2026-05-11 20:17:51] optimized_pagerank.py
+Maximum: 48.01 MB
+Time: 0.91 s
+
+[2026-05-11 20:48:10] optimized_pagerank.py
+Maximum: 48.30 MB
+Time: 1.41 s
+
+[2026-05-11 20:48:12] optimized_pagerank.py
+Maximum: 47.53 MB
+Time: 1.42 s
+
+[2026-05-11 20:48:13] optimized_pagerank.py
+Maximum: 48.55 MB
+Time: 1.42 s
+
+[2026-05-11 20:48:15] optimized_pagerank.py
+Maximum: 48.61 MB
+Time: 1.51 s
+
+[2026-05-11 20:48:16] optimized_pagerank.py
+Maximum: 48.34 MB
+Time: 1.41 s
+
+[2026-05-11 20:48:18] optimized_pagerank.py
+Maximum: 46.46 MB
+Time: 1.31 s
+
+[2026-05-11 20:48:19] optimized_pagerank.py
+Maximum: 46.58 MB
+Time: 1.31 s
+
+[2026-05-11 20:48:20] optimized_pagerank.py
+Maximum: 48.24 MB
+Time: 1.31 s
+
+[2026-05-11 20:48:21] optimized_pagerank.py
+Maximum: 47.80 MB
+Time: 1.31 s
+
+[2026-05-11 20:48:23] optimized_pagerank.py
+Maximum: 47.76 MB
+Time: 1.31 s
+
+[2026-05-11 20:54:27] optimized_pagerank.py
+Maximum: 48.63 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:28] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:29] optimized_pagerank.py
+Maximum: 48.57 MB
+Time: 0.81 s
+
+[2026-05-11 20:54:30] optimized_pagerank.py
+Maximum: 48.52 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:31] optimized_pagerank.py
+Maximum: 47.93 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:32] optimized_pagerank.py
+Maximum: 45.37 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:33] optimized_pagerank.py
+Maximum: 48.14 MB
+Time: 1.01 s
+
+[2026-05-11 20:54:34] optimized_pagerank.py
+Maximum: 48.88 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:35] optimized_pagerank.py
+Maximum: 48.00 MB
+Time: 0.91 s
+
+[2026-05-11 20:54:35] optimized_pagerank.py
+Maximum: 48.75 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:20] optimized_pagerank.py
+Maximum: 48.52 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:21] optimized_pagerank.py
+Maximum: 45.36 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:22] optimized_pagerank.py
+Maximum: 45.86 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:23] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:23] optimized_pagerank.py
+Maximum: 48.77 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:24] optimized_pagerank.py
+Maximum: 48.24 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:25] optimized_pagerank.py
+Maximum: 48.59 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:26] optimized_pagerank.py
+Maximum: 46.82 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:27] optimized_pagerank.py
+Maximum: 48.54 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:28] optimized_pagerank.py
+Maximum: 46.78 MB
+Time: 0.91 s
+
+[2026-05-11 20:55:44] optimized_pagerank.py
+Maximum: 48.55 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:45] optimized_pagerank.py
+Maximum: 48.15 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:45] optimized_pagerank.py
+Maximum: 46.87 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:46] optimized_pagerank.py
+Maximum: 48.48 MB
+Time: 0.71 s
+
+[2026-05-11 20:55:47] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:48] optimized_pagerank.py
+Maximum: 46.19 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:49] optimized_pagerank.py
+Maximum: 48.50 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:49] optimized_pagerank.py
+Maximum: 48.69 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:50] optimized_pagerank.py
+Maximum: 46.46 MB
+Time: 0.81 s
+
+[2026-05-11 20:55:51] optimized_pagerank.py
+Maximum: 48.86 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:02] optimized_pagerank.py
+Maximum: 48.62 MB
+Time: 0.91 s
+
+[2026-05-11 20:56:03] optimized_pagerank.py
+Maximum: 48.41 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:04] optimized_pagerank.py
+Maximum: 47.61 MB
+Time: 0.91 s
+
+[2026-05-11 20:56:05] optimized_pagerank.py
+Maximum: 48.25 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:05] optimized_pagerank.py
+Maximum: 47.89 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:06] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.91 s
+
+[2026-05-11 20:56:07] optimized_pagerank.py
+Maximum: 47.88 MB
+Time: 0.92 s
+
+[2026-05-11 20:56:08] optimized_pagerank.py
+Maximum: 47.71 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:09] optimized_pagerank.py
+Maximum: 46.06 MB
+Time: 0.81 s
+
+[2026-05-11 20:56:10] optimized_pagerank.py
+Maximum: 48.53 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:15] optimized_pagerank.py
+Maximum: 48.60 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:16] optimized_pagerank.py
+Maximum: 48.09 MB
+Time: 0.82 s
+
+[2026-05-11 20:59:17] optimized_pagerank.py
+Maximum: 45.88 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:18] optimized_pagerank.py
+Maximum: 48.52 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:19] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:20] optimized_pagerank.py
+Maximum: 48.06 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:20] optimized_pagerank.py
+Maximum: 47.70 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:21] optimized_pagerank.py
+Maximum: 48.45 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:22] optimized_pagerank.py
+Maximum: 48.68 MB
+Time: 0.91 s
+
+[2026-05-11 20:59:23] optimized_pagerank.py
+Maximum: 48.40 MB
+Time: 0.91 s
+
+[2026-05-11 21:00:09] dense_pagerank.py
+Maximum: 734.71 MB
+Time: 1.32 s
+
+[2026-05-11 21:00:10] dense_pagerank.py
+Maximum: 734.67 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:11] dense_pagerank.py
+Maximum: 734.76 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:12] dense_pagerank.py
+Maximum: 734.61 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:13] dense_pagerank.py
+Maximum: 735.59 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:14] dense_pagerank.py
+Maximum: 734.54 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:15] dense_pagerank.py
+Maximum: 734.71 MB
+Time: 1.01 s
+
+[2026-05-11 21:00:16] dense_pagerank.py
+Maximum: 734.56 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:17] dense_pagerank.py
+Maximum: 734.75 MB
+Time: 1.11 s
+
+[2026-05-11 21:00:19] dense_pagerank.py
+Maximum: 735.72 MB
+Time: 1.12 s
+
+[2026-05-11 21:31:11] main.py
+Maximum: 67.06 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:12] main.py
+Maximum: 67.07 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:13] main.py
+Maximum: 62.83 MB
+Time: 0.92 s
+
+[2026-05-11 21:31:14] main.py
+Maximum: 66.96 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:15] main.py
+Maximum: 67.18 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:16] main.py
+Maximum: 67.00 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:16] main.py
+Maximum: 67.00 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:17] main.py
+Maximum: 66.83 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:18] main.py
+Maximum: 67.04 MB
+Time: 0.81 s
+
+[2026-05-11 21:31:19] main.py
+Maximum: 67.11 MB
+Time: 0.81 s
+
+[2026-05-11 21:32:26] optimized_pagerank.py
+Maximum: 46.95 MB
+Time: 0.91 s
+
+[2026-05-11 21:32:27] optimized_pagerank.py
+Maximum: 45.78 MB
+Time: 0.91 s
+
+[2026-05-11 21:32:28] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.81 s
+
+[2026-05-11 21:32:29] optimized_pagerank.py
+Maximum: 48.32 MB
+Time: 0.91 s
+
+[2026-05-11 21:32:30] optimized_pagerank.py
+Maximum: 48.57 MB
+Time: 0.91 s
+
+[2026-05-11 21:32:31] optimized_pagerank.py
+Maximum: 48.07 MB
+Time: 0.91 s
+
+[2026-05-11 21:32:32] optimized_pagerank.py
+Maximum: 48.18 MB
+Time: 0.81 s
+
+[2026-05-11 21:32:33] optimized_pagerank.py
+Maximum: 47.34 MB
+Time: 0.81 s
+
+[2026-05-11 21:32:33] optimized_pagerank.py
+Maximum: 48.48 MB
+Time: 0.92 s
+
+[2026-05-11 21:32:34] optimized_pagerank.py
+Maximum: 47.18 MB
+Time: 0.81 s
+
+[2026-05-11 21:35:36] optimized_pagerank.py
+Maximum: 45.78 MB
+Time: 0.92 s
+
+[2026-05-11 21:35:37] optimized_pagerank.py
+Maximum: 48.21 MB
+Time: 0.81 s
+
+[2026-05-11 21:35:38] optimized_pagerank.py
+Maximum: 48.25 MB
+Time: 0.81 s
+
+[2026-05-11 21:35:39] optimized_pagerank.py
+Maximum: 48.80 MB
+Time: 0.91 s
+
+[2026-05-11 21:35:39] optimized_pagerank.py
+Maximum: 46.57 MB
+Time: 0.81 s
+
+[2026-05-11 21:35:40] optimized_pagerank.py
+Maximum: 48.06 MB
+Time: 0.81 s
+
+[2026-05-11 21:35:41] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 0.91 s
+
+[2026-05-11 21:35:42] optimized_pagerank.py
+Maximum: 47.51 MB
+Time: 0.91 s
+
+[2026-05-11 21:35:43] optimized_pagerank.py
+Maximum: 47.97 MB
+Time: 0.91 s
+
+[2026-05-11 21:35:44] optimized_pagerank.py
+Maximum: 45.07 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:03] optimized_pagerank.py
+Maximum: 47.79 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:04] optimized_pagerank.py
+Maximum: 48.49 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:05] optimized_pagerank.py
+Maximum: 47.11 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:06] optimized_pagerank.py
+Maximum: 46.94 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:06] optimized_pagerank.py
+Maximum: 47.93 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:07] optimized_pagerank.py
+Maximum: 47.16 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:08] optimized_pagerank.py
+Maximum: 47.08 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:09] optimized_pagerank.py
+Maximum: 49.43 MB
+Time: 1.01 s
+
+[2026-05-12 20:10:10] optimized_pagerank.py
+Maximum: 46.93 MB
+Time: 0.91 s
+
+[2026-05-12 20:10:11] optimized_pagerank.py
+Maximum: 46.74 MB
+Time: 0.91 s
+
+[2026-05-12 20:13:10] optimized_pagerank.py
+Maximum: 53.97 MB
+Time: 1.41 s
+
+[2026-05-12 20:13:11] optimized_pagerank.py
+Maximum: 54.15 MB
+Time: 1.41 s
+
+[2026-05-12 20:13:13] optimized_pagerank.py
+Maximum: 54.02 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:14] optimized_pagerank.py
+Maximum: 52.11 MB
+Time: 1.41 s
+
+[2026-05-12 20:13:16] optimized_pagerank.py
+Maximum: 53.89 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:17] optimized_pagerank.py
+Maximum: 54.18 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:19] optimized_pagerank.py
+Maximum: 53.60 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:20] optimized_pagerank.py
+Maximum: 53.98 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:22] optimized_pagerank.py
+Maximum: 54.12 MB
+Time: 1.51 s
+
+[2026-05-12 20:13:23] optimized_pagerank.py
+Maximum: 54.03 MB
+Time: 1.51 s
+
+[2026-05-12 20:14:08] optimized_pagerank.py
+Maximum: 54.23 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:09] optimized_pagerank.py
+Maximum: 52.27 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:10] optimized_pagerank.py
+Maximum: 54.29 MB
+Time: 1.31 s
+
+[2026-05-12 20:14:11] optimized_pagerank.py
+Maximum: 54.07 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:13] optimized_pagerank.py
+Maximum: 54.27 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:14] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:15] optimized_pagerank.py
+Maximum: 48.24 MB
+Time: 1.11 s
+
+[2026-05-12 20:14:16] optimized_pagerank.py
+Maximum: 52.93 MB
+Time: 1.22 s
+
+[2026-05-12 20:14:17] optimized_pagerank.py
+Maximum: 54.30 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:19] optimized_pagerank.py
+Maximum: 47.91 MB
+Time: 1.21 s
+
+[2026-05-12 20:14:49] optimized_pagerank.py
+Maximum: 47.83 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:49] optimized_pagerank.py
+Maximum: 48.37 MB
+Time: 0.91 s
+
+[2026-05-12 20:14:50] optimized_pagerank.py
+Maximum: 47.47 MB
+Time: 0.91 s
+
+[2026-05-12 20:14:51] optimized_pagerank.py
+Maximum: 47.40 MB
+Time: 0.92 s
+
+[2026-05-12 20:14:52] optimized_pagerank.py
+Maximum: 52.78 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:53] optimized_pagerank.py
+Maximum: 47.35 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:54] optimized_pagerank.py
+Maximum: 52.85 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:55] optimized_pagerank.py
+Maximum: 55.12 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:56] optimized_pagerank.py
+Maximum: 47.97 MB
+Time: 1.01 s
+
+[2026-05-12 20:14:57] optimized_pagerank.py
+Maximum: 54.62 MB
+Time: 1.02 s
+
+[2026-05-12 20:15:40] optimized_pagerank.py
+Maximum: 47.34 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:41] optimized_pagerank.py
+Maximum: 46.96 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:42] optimized_pagerank.py
+Maximum: 48.26 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:43] optimized_pagerank.py
+Maximum: 47.29 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:44] optimized_pagerank.py
+Maximum: 47.02 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:45] optimized_pagerank.py
+Maximum: 47.97 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:46] optimized_pagerank.py
+Maximum: 47.00 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:47] optimized_pagerank.py
+Maximum: 47.38 MB
+Time: 0.91 s
+
+[2026-05-12 20:15:47] optimized_pagerank.py
+Maximum: 47.85 MB
+Time: 0.81 s
+
+[2026-05-12 20:15:48] optimized_pagerank.py
+Maximum: 47.28 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:40] optimized_pagerank.py
+Maximum: 48.57 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:41] optimized_pagerank.py
+Maximum: 48.65 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:42] optimized_pagerank.py
+Maximum: 48.46 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:43] optimized_pagerank.py
+Maximum: 48.74 MB
+Time: 1.01 s
+
+[2026-05-12 20:17:44] optimized_pagerank.py
+Maximum: 48.71 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:45] optimized_pagerank.py
+Maximum: 48.27 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:46] optimized_pagerank.py
+Maximum: 48.36 MB
+Time: 0.92 s
+
+[2026-05-12 20:17:47] optimized_pagerank.py
+Maximum: 48.58 MB
+Time: 0.91 s
+
+[2026-05-12 20:17:48] optimized_pagerank.py
+Maximum: 47.79 MB
+Time: 0.81 s
+
+[2026-05-12 20:17:49] optimized_pagerank.py
+Maximum: 47.64 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:01] optimized_pagerank.py
+Maximum: 47.14 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:02] optimized_pagerank.py
+Maximum: 46.45 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:03] optimized_pagerank.py
+Maximum: 48.34 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:04] optimized_pagerank.py
+Maximum: 48.55 MB
+Time: 1.01 s
+
+[2026-05-12 20:18:05] optimized_pagerank.py
+Maximum: 48.34 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:06] optimized_pagerank.py
+Maximum: 48.43 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:07] optimized_pagerank.py
+Maximum: 48.57 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:08] optimized_pagerank.py
+Maximum: 48.50 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:09] optimized_pagerank.py
+Maximum: 48.07 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:09] optimized_pagerank.py
+Maximum: 48.45 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:47] optimized_pagerank.py
+Maximum: 48.62 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:47] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:48] optimized_pagerank.py
+Maximum: 48.11 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:49] optimized_pagerank.py
+Maximum: 48.23 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:50] optimized_pagerank.py
+Maximum: 48.59 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:51] optimized_pagerank.py
+Maximum: 48.64 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:52] optimized_pagerank.py
+Maximum: 47.63 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:53] optimized_pagerank.py
+Maximum: 47.87 MB
+Time: 0.91 s
+
+[2026-05-12 20:18:53] optimized_pagerank.py
+Maximum: 48.31 MB
+Time: 0.81 s
+
+[2026-05-12 20:18:54] optimized_pagerank.py
+Maximum: 48.75 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:00] optimized_pagerank.py
+Maximum: 48.42 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:01] optimized_pagerank.py
+Maximum: 48.29 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:01] optimized_pagerank.py
+Maximum: 47.92 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:02] optimized_pagerank.py
+Maximum: 48.41 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:03] optimized_pagerank.py
+Maximum: 45.29 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:04] optimized_pagerank.py
+Maximum: 48.09 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:05] optimized_pagerank.py
+Maximum: 48.54 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:06] optimized_pagerank.py
+Maximum: 47.93 MB
+Time: 0.82 s
+
+[2026-05-12 20:19:07] optimized_pagerank.py
+Maximum: 48.36 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:08] optimized_pagerank.py
+Maximum: 46.18 MB
+Time: 0.92 s
+
+[2026-05-12 20:19:38] optimized_pagerank.py
+Maximum: 47.78 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:39] optimized_pagerank.py
+Maximum: 45.73 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:40] optimized_pagerank.py
+Maximum: 47.09 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:40] optimized_pagerank.py
+Maximum: 47.99 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:41] optimized_pagerank.py
+Maximum: 48.44 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:42] optimized_pagerank.py
+Maximum: 48.37 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:43] optimized_pagerank.py
+Maximum: 48.39 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:44] optimized_pagerank.py
+Maximum: 48.58 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:45] optimized_pagerank.py
+Maximum: 45.11 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:46] optimized_pagerank.py
+Maximum: 47.75 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:50] optimized_pagerank.py
+Maximum: 48.29 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:51] optimized_pagerank.py
+Maximum: 47.68 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:52] optimized_pagerank.py
+Maximum: 48.12 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:53] optimized_pagerank.py
+Maximum: 48.11 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:54] optimized_pagerank.py
+Maximum: 47.71 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:55] optimized_pagerank.py
+Maximum: 45.04 MB
+Time: 0.91 s
+
+[2026-05-12 20:19:55] optimized_pagerank.py
+Maximum: 45.80 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:56] optimized_pagerank.py
+Maximum: 48.07 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:57] optimized_pagerank.py
+Maximum: 48.38 MB
+Time: 0.81 s
+
+[2026-05-12 20:19:58] optimized_pagerank.py
+Maximum: 47.78 MB
+Time: 0.81 s
+
+[2026-05-12 20:32:11] dense_pagerank.py
+Maximum: 734.62 MB
+Time: 1.01 s
+
+[2026-05-12 20:32:12] dense_pagerank.py
+Maximum: 734.62 MB
+Time: 0.81 s
+
+[2026-05-12 20:32:13] dense_pagerank.py
+Maximum: 734.64 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:14] dense_pagerank.py
+Maximum: 734.54 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:15] dense_pagerank.py
+Maximum: 734.98 MB
+Time: 1.01 s
+
+[2026-05-12 20:32:16] dense_pagerank.py
+Maximum: 734.64 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:17] dense_pagerank.py
+Maximum: 734.63 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:18] dense_pagerank.py
+Maximum: 734.54 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:19] dense_pagerank.py
+Maximum: 734.73 MB
+Time: 0.91 s
+
+[2026-05-12 20:32:20] dense_pagerank.py
+Maximum: 734.68 MB
+Time: 0.91 s
+
+[2026-05-12 20:36:27] main.py
+Maximum: 65.14 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:28] main.py
+Maximum: 64.12 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:29] main.py
+Maximum: 64.86 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:29] main.py
+Maximum: 65.44 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:30] main.py
+Maximum: 64.97 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:31] main.py
+Maximum: 64.90 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:32] main.py
+Maximum: 65.05 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:33] main.py
+Maximum: 65.23 MB
+Time: 0.91 s
+
+[2026-05-12 20:36:34] main.py
+Maximum: 65.00 MB
+Time: 0.81 s
+
+[2026-05-12 20:36:34] main.py
+Maximum: 64.98 MB
+Time: 0.81 s
+
